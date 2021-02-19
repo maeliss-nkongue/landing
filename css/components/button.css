@@ -1,0 +1,22 @@
+.btn-pink {
+	background-color: #F875AA;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+}
+
+.btn-pink:hover {
+	background-color: #F1D1D0;
+	color: white;
+}
+
+.btn-lightpink {
+	background-color: #F1D1D0;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+}

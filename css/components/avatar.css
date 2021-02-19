@@ -1,0 +1,11 @@
+.avatars {
+	text-align: center;
+}
+
+
+.avatar {
+	width: 90px;
+	height: 90px;
+	border-radius: 50%;
+	padding: 20px;
+}
